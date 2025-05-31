@@ -63,4 +63,18 @@ Selected timestamps from the test set are used to:
    ```bash
    git clone https://github.com/meghSiRi9797/energy-_forecasting-using-linear-models.git
    cd energy-_forecasting-using-linear-models
+2. ** Set Up a Virtual Environment**
+   ```bash
+   🔹 On Windows
+    python -m venv env
+    env\Scripts\activate
+   🔹 On macOS/Linux
+    python3 -m venv env
+    source env/bin/activate
+3. Install Required Libraries
+   ```bash
+   Make sure your virtual environment is activated, then install all required packages using:
+   pip install -r requirements.txt
+
+
 
