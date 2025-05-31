@@ -58,16 +58,6 @@ Selected timestamps from the test set are used to:
 - Calculate absolute errors and determine which model performs best at each time instance
 
 ---
-
-##  Project Structure
-energy-_forecasting-using-linear-models
-├── notebooks/
-│ └── Regression.ipynb # Main notebook with all code and visualizations
-├── time_series_60min_singleindex.csv # Energy dataset
-├── README.md
-
-
----
 ## Set up virtual environment 
 **Set up the environment:**
 python -m venv env
