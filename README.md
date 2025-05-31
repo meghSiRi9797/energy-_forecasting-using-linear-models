@@ -60,4 +60,25 @@ Selected timestamps from the test set are used to:
 ---
 
 ##  Project Structure
+energy-_forecasting-using-linear-models
+├── notebooks/
+│ └── Regression.ipynb # Main notebook with all code and visualizations
+├── time_series_60min_singleindex.csv # Energy dataset
+├── README.md
+
+
+---
+## Set up virtual environment 
+**Set up the environment:**
+python -m venv env
+source env/bin/activate   # On Windows: env\Scripts\activate
+pip install -r requirements.txt  # or install needed libraries manually
+
+
+## How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/meghSiRi9797/energy-_forecasting-using-linear-models.git
+   cd energy-_forecasting-using-linear-models
 
