@@ -57,14 +57,6 @@ Selected timestamps from the test set are used to:
 - Compare model predictions against actual load values
 - Calculate absolute errors and determine which model performs best at each time instance
 
----
-## Set up virtual environment 
-**Set up the environment:**
- -python -m venv env
- -source env/bin/activate   # On Windows: env\Scripts\activate
- -pip install -r requirements.txt  # or install needed libraries manually
-
-
 ## How to Run
 
 1. **Clone the repository**:
