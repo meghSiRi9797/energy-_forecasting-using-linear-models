@@ -60,9 +60,9 @@ Selected timestamps from the test set are used to:
 ---
 ## Set up virtual environment 
 **Set up the environment:**
--python -m venv env
--source env/bin/activate   # On Windows: env\Scripts\activate
--pip install -r requirements.txt  # or install needed libraries manually
+ -python -m venv env
+ -source env/bin/activate   # On Windows: env\Scripts\activate
+ -pip install -r requirements.txt  # or install needed libraries manually
 
 
 ## How to Run
